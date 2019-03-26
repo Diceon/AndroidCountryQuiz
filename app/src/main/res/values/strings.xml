@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidCountryQuiz</string>
+    <string name="question">Question %1 from %2$d</string>
+    <string name="image_description">Flag image</string>
+    <string name="guess_country">Which country flag?</string>
+    <string name="button">button</string>
+    <string name="text_view">information_for_user</string>
+</resources>
