@@ -1,0 +1,11 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/quizFragment"
+    android:name="lt.vtvpmc.ems.zp18_2.androidcountryquiz.MainActivityFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="lt.vtvpmc.ems.zp18_2.androidcountryquiz.SettingsActivityFragment"
+    tools:layout="@layout/fragment_settings">
+
+</fragment>
