@@ -10,6 +10,9 @@ import java.util.Set;
 
 public class MainActivity extends AppCompatActivity {
 
+    public static final String CHOICES = "pref_numberOfChoices";
+    public static final String REGIONS = "pref_regionsToInclude";
+
     /* Ar ivyko nustatymu pakeitimai */
     private boolean preferencesChanged = true;
 
